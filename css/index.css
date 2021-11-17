@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}body{
+    width: 100%;
+   
+}
+.tittle h1{
+    margin: 70px;
+    font-size: 30px;
+    text-align: center;
+    color: black;
+}
+.card{ 
+    margin: 120px 200px 120px 200px;
+    background-color: rgb(16, 144, 218);
+    padding: 20px;
+    width: 100px;
+    min-height: 100px;
+    opacity: .8;
+    box-shadow: #333;
+    display: contents;
+}
+li{
+    align-items: center;
+    background-color: rgb(6, 109, 206);
+    display: block;
+    border-radius: 100px;
+    text-align: center;
+    margin: 20px;
+    height: 30px;
+    width: 200px;
+    
+}a{
+    text-decoration: none;
+    
+}a h3{
+    color: white;
+    margin: 20px 10px;
+}
